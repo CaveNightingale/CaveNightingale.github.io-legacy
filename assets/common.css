@@ -1,0 +1,15 @@
+.klpbg {
+	background: url(https://api.klpbbs.com/api/img/acg/) no-repeat;
+	background-size: cover;
+}
+.center {
+	border-radius: 20px;
+	width: 800px;
+	height: 600px;
+	margin: auto;
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+}
